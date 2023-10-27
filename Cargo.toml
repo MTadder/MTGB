@@ -1,0 +1,8 @@
+[package]
+name = "mt_ghost_box"
+version = "0.5.8"
+edition = "2021"
+
+[dependencies]
+crossterm = "0.25"
+rand = "0.8"
